@@ -1,6 +1,6 @@
 body{
 	margin:1%;
-	background-image: url("../bg.png");
+	background:rgba(200,100,250,0.3);
 	opacity:0.5;
 }
 header{
