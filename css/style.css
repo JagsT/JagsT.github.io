@@ -1,6 +1,7 @@
 body{
 	margin:1%;
-	background: rgba(200,100,250,0.25);
+	background-image: url("../img/bg.png");
+	opacity:0.5;
 }
 header{
 	background-color: rgba(0,200,200,1);
